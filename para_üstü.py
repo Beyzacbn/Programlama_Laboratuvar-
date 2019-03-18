@@ -47,6 +47,4 @@ def para_üstü(n):
       n=n-n
       
 
-print(para_üstü(92))     
-
-
+print(para_üstü(92))
