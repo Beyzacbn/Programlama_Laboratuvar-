@@ -1,3 +1,6 @@
+#sayının asal olup olmadığını kontrol eder
+# sayının çarpanlarını gösterir
+
 def asal(n):
 
     control = 0
